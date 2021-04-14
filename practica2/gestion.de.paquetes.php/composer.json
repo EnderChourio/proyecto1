@@ -1,0 +1,19 @@
+{
+    "name": "ender/gestion.de.paquetes.php",
+    "description": "Ejemplo composer",
+    "type": "library",
+    "require": {
+        "nesbot/carbon": "3.x-dev"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "10.0.x-dev"
+    },
+    "license": "Mit",
+    "authors": [
+        {
+            "name": "enderchourio",
+            "email": "ender@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
